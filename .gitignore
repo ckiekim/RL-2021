@@ -1,6 +1,8 @@
 # .gitignore
 # file 명
 # directory/
+gpt-2-master/
+start-RL-master/
 exercise.ipynb
 model/
 etriaikey.txt
